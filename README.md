@@ -12,3 +12,6 @@ Defining Directions: Four possible directions are defined as unit vectors: up, d
 Simulating Random Walk: The code iterates through num_steps steps. At each step, a random direction is chosen using np.random.randint(0, 4), and the position is updated by adding the step size multiplied by the chosen direction vector. The x and y coordinates of the new position are appended to the x and y lists.
 
 Plotting Results: The x and y coordinates are plotted using plt.plot() to visualize the random walk trajectory. The x-axis represents the x position, the y-axis represents the y position, and the title of the plot is set to 'Random Walk Mobility Model'.
+
+![Alt Text]([url](https://github.com/IndikaAnuradha/Random-walk-mobility-model/blob/main/RWMB.png)https://github.com/IndikaAnuradha/Random-walk-mobility-model/blob/main/RWMB.png)
+

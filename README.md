@@ -13,5 +13,4 @@ Simulating Random Walk: The code iterates through num_steps steps. At each step,
 
 Plotting Results: The x and y coordinates are plotted using plt.plot() to visualize the random walk trajectory. The x-axis represents the x position, the y-axis represents the y position, and the title of the plot is set to 'Random Walk Mobility Model'.
 
-![Alt Text]([url](https://github.com/IndikaAnuradha/Random-walk-mobility-model/blob/main/RWMB.png)https://github.com/IndikaAnuradha/Random-walk-mobility-model/blob/main/RWMB.png)
-
+![RWMB](https://github.com/IndikaAnuradha/Random-walk-mobility-model/assets/122884553/e2351f00-b48f-47c7-917e-3c05afc8e35e)

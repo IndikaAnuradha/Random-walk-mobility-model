@@ -1,4 +1,7 @@
 # Random-walk-mobility-model
+The mobility model is designed to describe the movement pattern of mobile users, and how their location, velocity and acceleration change over time.
+In random-based mobility models, the mobile nodes move randomly and freely without restrictions.
+
 This code simulates a random walk mobility model in a two-dimensional space.
 
 Importing Libraries: The script imports necessary libraries, including numpy and matplotlib.pyplot.
